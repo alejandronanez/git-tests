@@ -1,2 +1,1 @@
-# git-tests
-Goofing around.
+# Day 2
